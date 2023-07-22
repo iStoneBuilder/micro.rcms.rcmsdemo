@@ -7,17 +7,7 @@
 
   <dependencies>
     <dependency>
-      <artifactId>micro.rcms.framebase</artifactId>
-      <groupId>com.stone.it</groupId>
-      <version>1.0.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <artifactId>micro.rcms.framecore</artifactId>
-      <groupId>com.stone.it</groupId>
-      <version>1.0.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <artifactId>micro.rcms.framedata</artifactId>
+      <artifactId>micro.rcms.webstarter</artifactId>
       <groupId>com.stone.it</groupId>
       <version>1.0.0-SNAPSHOT</version>
     </dependency>
