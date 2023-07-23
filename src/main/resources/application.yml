@@ -31,3 +31,7 @@ tmdb:
   api:
     address: https://api.themoviedb.org/3
     key: 23f3b2175b9d8be3a9e3af974f6783d6
+
+rcms:
+  sso:
+    login: http://localhost:1000/login
