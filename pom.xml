@@ -7,7 +7,7 @@
 
   <dependencies>
     <dependency>
-      <artifactId>micro.rcms.webstarter</artifactId>
+      <artifactId>rcms-web-starter</artifactId>
       <groupId>com.stone.it</groupId>
       <version>1.0.0-SNAPSHOT</version>
     </dependency>
